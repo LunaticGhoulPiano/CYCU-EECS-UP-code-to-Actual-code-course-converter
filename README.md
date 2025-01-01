@@ -42,7 +42,9 @@
                 - ```cd 路徑```：切換到當前目錄下的某個路徑，假設終端機顯示```C:\Users\TA>```，我知道我的資料夾```test_folder```在```Downloads```中，而```Downloads```又在```TA```中，所以我可以：
                     - ```cd Downloads```之後再```cd test_folder```，兩次切換到目標資料夾
                     - 或是 ```cd Downloads\test_folder```，直接切換到目標路徑
-    2. 執行程式：
+    2. 安裝程式所需要的Libraries：
+        - 在終端機輸入```pip install -r requirements.txt```
+    3. 執行程式：
         - 請確認程式用到的```StarClass_List.xls```與所有```{虛擬碼}_修課名單.xls```都已關閉
         - 在終端機輸入```python main.py```，等它跑完就可以了
         - 如果之前已經有跑過，程式會先問你是否要取代就的總表，要的話輸入```Y```，否則可以直接按```Enter```
