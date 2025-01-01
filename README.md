@@ -26,7 +26,7 @@
     - ```python --version```或是```python -V```：若安裝正確會輸出```Python 3.10```（或你安裝的python版本）
     - ```git --version```或是```git -v```：若安裝卻會輸出```git version 2.47.1.windows.2```（或你安裝的python版本）
 4. 下載此程式：
-    - 如果不會寫程式就直接在[本專案網頁](https://github.com/LunaticGhoulPiano/CYCU-EECS-UP-code-to-Actual-code-course-converter)點擊```<> Code```右邊的小箭頭-```Local```-```Download ZIP```，然後把解壓縮後的資料夾放到你想放的地方
+    - 如果不會寫程式就直接在[本專案網頁](https://github.com/LunaticGhoulPiano/CYCU-EECS-UP-code-to-Actual-code-course-converter)點擊```<> Code```-```Local```-```Download ZIP```，然後把解壓縮後的資料夾放到你想放的地方
     - 如果你會用板控就直接git clone或是用Github Desktop都行
 5. 下載相關檔案：
     - 由於我是學生沒有系助理的權限，沒辦法幫你寫自動化一鍵下載，因此請自行用你的手動老方法一門一門課慢慢下載修課名單到你剛剛解壓縮的資料夾內（例如假設```UP106G_修課名單.xls```如果沒有人修就不用下載）
